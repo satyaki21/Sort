@@ -18,4 +18,5 @@ for j in range(len(array)):
 	array[j]=minimum
 	array[indexofmin]=temp
 
+Print ("new sorted array")
 print (array)
